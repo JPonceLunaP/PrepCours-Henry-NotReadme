@@ -11,3 +11,5 @@ Mas cambios por aqui
 --  Todo bien todo correcto
 
 Me alegra
+
+Esta es la version 1.0.1  de este texto inservible
